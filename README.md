@@ -7,4 +7,6 @@
   - [Gene finding](https://github.com/xiucz/metagenome2/wiki/005)
   - [Functional annotation](https://github.com/xiucz/metagenome2/wiki/006)
   - [Determine gene coverage in metagenomic samples](https://github.com/xiucz/metagenome2/wiki/007)
+* Comparative Taxonomic Analysis 
+  - [Extracting rRNA encoding reads and annotating them]
   
