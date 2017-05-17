@@ -1,4 +1,5 @@
 # metagenome2
+## 
 * Metagenomic Assembly 
   - [Quality trimming ](https://github.com/xiucz/metagenome2/wiki/002)
   - [Assembling reads](https://github.com/xiucz/metagenome2/wiki/003)
@@ -8,5 +9,6 @@
   - [Functional annotation](https://github.com/xiucz/metagenome2/wiki/006)
   - [Determine gene coverage in metagenomic samples](https://github.com/xiucz/metagenome2/wiki/006)
 * Comparative Taxonomic Analysis
-  - [Extracting rRNA encoding reads and annotating them]
+  - [Extracting rRNA encoding reads and annotating them](https://github.com/xiucz/metagenome2/wiki/007)
+  - [PhyloFlash](https://github.com/HRGV/phyloFlash)
 * Metagenomic Annotation Analysis
